@@ -1,36 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# TumpangSG
+This is a (WIP) personal project that I am trying to create and also at a same time learn NextJS and get back into writing in my favourite language TypeScript!
 
-## Getting Started
+The idea of this project is to match request from people that wants to buy something with people that could be near the place to buy it. It could be a meal, a bubble tea, a very specific item that only a certain place has it.
 
-First, run the development server:
+So think there has to be some incentive to motivate people to help, so it could a few dollars offer to help compensate for the task. 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+It could be that I am going to dabao (takeaway) food in a nearby hawker and I can take a look if there are any requests from my neighbors that also would like to get lunch from there or nearby. I could help them up for a small fee.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Could also be that I can help my neightbors purchase an item that is near my workplace but isn't really convinence for him/her.
